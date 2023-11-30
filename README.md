@@ -96,10 +96,3 @@
 [<img src="images/alura.png" alt="Logo da Alura" width=150>](https://www.alura.com.br/)
 
 <br>
-
-## Instrutora
-  
-> [Vanessa Me Tonini](https://github.com/vanessametonini)
-  
-<br>
-
