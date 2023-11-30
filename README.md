@@ -103,9 +103,3 @@
   
 <br>
 
-## Desenvolvedor
-
-| [<img src="https://avatars.githubusercontent.com/u/118308728?v=4" width=115><br><sub>Diego Borelli Dias</sub>](https://github.com/DiegosXe) |
-| :-----------: |
-  
-<br>
